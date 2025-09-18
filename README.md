@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sakshi Ahlawat 👋
+
+**Software Developer | Java & Web Development Enthusiast**
+
+---
+
+## 🚀 About Me
+
+I'm a passionate software developer skilled in Java and web development. I love building impactful solutions, with a keen interest in crafting user-friendly and robust applications.
+
+---
+
+## 🛠️ Skills
+
+- Java
+- Web Development (HTML, CSS, JavaScript)
+- Project Architecture & Design
+
+---
+
+## 🌟 Featured Projects
+
+- [Online Banking System](https://github.com/sakshi4451/OnlineBankingSystem) — A secure, scalable, and user-friendly banking application.
+- [BookWebApp](https://github.com/sakshi4451/BookWebApp) — A modern web app for book lovers.
+- [Bank-Management-System](https://github.com/sakshi4451/Bank-Management-System) — Efficient management for banking workflows.
+
+---
+
+## 🏆 Achievements
+
+- **Internship Certificate** from Tata Forge in GenAI
+- **Web Development Certificate** from Apna College
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sakshi-ahlawat-haryana)
+- **Gmail:** sakshiahlawat431@gmail.com
+
+---
 
 <!--
-**sakshi4451/sakshi4451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out if you want to collaborate or talk tech!
 -->
