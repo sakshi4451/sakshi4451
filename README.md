@@ -15,6 +15,8 @@ I'm a passionate software developer skilled in Java and web development. I love 
 - Java
 - Web Development (HTML, CSS, JavaScript)
 - Project Architecture & Design
+- MySQL and PostgreSQL
+- Problem Solving  (DSA)
 
 ---
 
@@ -30,6 +32,7 @@ I'm a passionate software developer skilled in Java and web development. I love 
 
 - **Internship Certificate** from Tata Forge in GenAI
 - **Web Development Certificate** from Apna College
+
 
 ---
 
