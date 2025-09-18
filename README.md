@@ -38,7 +38,7 @@ I'm a passionate software developer skilled in Java and web development. I love 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sakshi-ahlawat-haryana)
+- **Linkedin:** https://www.linkedin.com/in/sakshi-ahlawat-haryana
 - **Gmail:** sakshiahlawat431@gmail.com
 
 ---
